@@ -504,6 +504,9 @@ su - ubuntu
 # to switch from current user to some other user without home directory
 sudo -i
 su ubuntu
+# u have to change the home dir for that cd ~
+su - ubuntu  
+# we dont need to change cd ~
 ``` 
 ### 5
 
